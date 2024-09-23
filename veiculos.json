@@ -1,0 +1,137 @@
+[
+  {
+    "placa": "ABC1234",
+    "marca": "Civic",
+    "fabricante": "Honda",
+    "cor": "Prata",
+    "tipo": "Sedan",
+    "combustivel": "Gasolina",
+    "status": "CONNECTADO"
+  },
+  {
+    "placa": "XYZ5678",
+    "marca": "Corolla",
+    "fabricante": "Toyota",
+    "cor": "Preto",
+    "tipo": "Sedan",
+    "combustivel": "Flex",
+    "status": "DESCONECTADO"
+  },
+  {
+    "placa": "JKL4321",
+    "marca": "Onix",
+    "fabricante": "Chevrolet",
+    "cor": "Branco",
+    "tipo": "Hatch",
+    "combustivel": "Flex",
+    "status": "CONNECTADO"
+  },
+  {
+    "placa": "MNO8765",
+    "marca": "EcoSport",
+    "fabricante": "Ford",
+    "cor": "Vermelho",
+    "tipo": "SUV",
+    "combustivel": "Gasolina",
+    "status": "DESCONECTADO"
+  },
+  {
+    "placa": "PQR2345",
+    "marca": "Tucson",
+    "fabricante": "Hyundai",
+    "cor": "Cinza",
+    "tipo": "SUV",
+    "combustivel": "Diesel",
+    "status": "CONNECTADO"
+  },
+  {
+    "placa": "STU6543",
+    "marca": "HR-V",
+    "fabricante": "Honda",
+    "cor": "Azul",
+    "tipo": "SUV",
+    "combustivel": "Flex",
+    "status": "DESCONECTADO"
+  },
+  {
+    "placa": "VWX9876",
+    "marca": "Model S",
+    "fabricante": "Tesla",
+    "cor": "Branco",
+    "tipo": "Sedan",
+    "combustivel": "Elétrico",
+    "status": "CONNECTADO"
+  },
+  {
+    "placa": "DEF5432",
+    "marca": "Ranger",
+    "fabricante": "Ford",
+    "cor": "Preto",
+    "tipo": "Picape",
+    "combustivel": "Diesel",
+    "status": "DESCONECTADO"
+  },
+  {
+    "placa": "GHI9871",
+    "marca": "Compass",
+    "fabricante": "Jeep",
+    "cor": "Cinza",
+    "tipo": "SUV",
+    "combustivel": "Flex",
+    "status": "CONNECTADO"
+  },
+  {
+    "placa": "LMN1357",
+    "marca": "Yaris",
+    "fabricante": "Toyota",
+    "cor": "Vermelho",
+    "tipo": "Hatch",
+    "combustivel": "Gasolina",
+    "status": "DESCONECTADO"
+  },
+  {
+    "placa": "OPQ9753",
+    "marca": "Renegade",
+    "fabricante": "Jeep",
+    "cor": "Verde",
+    "tipo": "SUV",
+    "combustivel": "Diesel",
+    "status": "CONNECTADO"
+  },
+  {
+    "placa": "RST1359",
+    "marca": "Creta",
+    "fabricante": "Hyundai",
+    "cor": "Azul",
+    "tipo": "SUV",
+    "combustivel": "Flex",
+    "status": "DESCONECTADO"
+  },
+  {
+    "placa": "UVW9751",
+    "marca": "Sandero",
+    "fabricante": "Renault",
+    "cor": "Prata",
+    "tipo": "Hatch",
+    "combustivel": "Flex",
+    "status": "CONNECTADO"
+  },
+  {
+    "placa": "XYZ2468",
+    "marca": "Fiesta",
+    "fabricante": "Ford",
+    "cor": "Branco",
+    "tipo": "Hatch",
+    "combustivel": "Gasolina",
+    "status": "DESCONECTADO"
+  },
+  {
+    "placa": "AAA1122",
+    "marca": "Cayenne",
+    "fabricante": "Porsche",
+    "cor": "Preto",
+    "tipo": "SUV",
+    "combustivel": "Híbrido",
+    "status": "CONNECTADO"
+  }
+]
