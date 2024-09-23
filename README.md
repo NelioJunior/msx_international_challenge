@@ -108,7 +108,8 @@ Cria um novo veículo.
   "fabricante": "Honda",
   "cor": "Prata",
   "tipo": "Sedan",
-  "combustivel": "Gasolina"
+  "combustivel": "Gasolina",
+  "status": "CONNECTADO"
 }
 ```
 
@@ -235,7 +236,8 @@ Crie uma nova requisição para cada endpoint da API:
     "fabricante": "Tesla",
     "cor": "Prata",
     "tipo": "Sedan",
-    "combustivel": "Elétrico"
+    "combustivel": "Elétrico",
+    "status": "CONNECTADO"
   }
   ```
 

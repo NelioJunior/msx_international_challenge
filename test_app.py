@@ -33,13 +33,13 @@ class TestApp(unittest.TestCase):
         self.assertEqual(data['placa'], "TEST123")
 
     def test_get_veiculo(self):
-        response = self.app.get('/veiculos/ABC1234', headers=self.auth_headers)
+        response = self.app.get('/veiculos/XYZ5678', headers=self.auth_headers)
         self.assertEqual(response.status_code, 200)
         data = json.loads(response.data)
-        self.assertEqual(data['placa'], "ABC1234")
+        self.assertEqual(data['placa'], "XYZ5678")
 
     def test_update_veiculo_status(self):
-        response = self.app.put('/veiculos/ABC1234', 
+        response = self.app.put('/veiculos/LMN1357', 
                                 headers=self.auth_headers,
                                 data=json.dumps({"status": "CONNECTADO"}),
                                 content_type='application/json')
@@ -48,7 +48,7 @@ class TestApp(unittest.TestCase):
         self.assertEqual(data['status'], "CONNECTADO")
 
     def test_delete_veiculo(self):
-        response = self.app.delete('/veiculos/ABC1234', headers=self.auth_headers)
+        response = self.app.delete('/veiculos/JKL4321', headers=self.auth_headers)
         self.assertEqual(response.status_code, 200)
         data = json.loads(response.data)
         self.assertTrue(data['result'])
